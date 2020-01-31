@@ -1,7 +1,7 @@
 {
     "name": "quynp/simple-html-dom",
     "type": "library",
-    "description": "Composer adaptation of: A HTML DOM parser written in PHP7.3+ let you manipulate HTML in a very easy way! Require PHP 7.3+. Supports invalid HTML. Find tags on an HTML page with selectors just like jQuery. Extract contents from HTML in a single line.",    
+    "description": "Composer adaptation of: A HTML DOM parser written in PHP7.0+ let you manipulate HTML in a very easy way! Require PHP 7.0+. Supports invalid HTML. Find tags on an HTML page with selectors just like jQuery. Extract contents from HTML in a single line.",    
     "keywords": ["html", "dom", "parser"],
     "homepage": "https://github.com/quynp/simple-html-dom",
     "license": "MIT",
