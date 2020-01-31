@@ -17,6 +17,6 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-0": { "SirQuy\\PhpSimple\\HtmlDomParser": "Src/" }
+        "psr-0": { "SirQuy\\PhpSimple\\HtmlDomParser": "src/" }
     }    
 }

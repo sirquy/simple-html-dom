@@ -1,6 +1,6 @@
 <?php
 
-namespace Sunra\PhpSimple;
+namespace SirQuy\PhpSimple;
 
 require 'simplehtmldom_1_0'.DIRECTORY_SEPARATOR.'simple_html_dom.php';
 
