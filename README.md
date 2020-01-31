@@ -17,7 +17,7 @@ Install
  composer.phar
 ```json
 "require": {
-    "quynp/php-simple-html-dom-parser": "1.0"
+    "quynp/simple-html-dom": "1.0"
     }
 ```
 
