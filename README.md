@@ -5,7 +5,7 @@ Version 1.0
 
 Adaptation for Composer and PSR-0 of:
 
-A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way!
+A HTML DOM parser written in PHP7.3+ let you manipulate HTML in a very easy way!
 Require PHP 7.3+.
 Supports invalid HTML.
 Find tags on an HTML page with selectors just like jQuery.
