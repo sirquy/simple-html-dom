@@ -17,7 +17,7 @@ Install
  composer.phar
 ```json
 "require": {
-    "quynp/simple-html-dom": "1.0"
+    "sirquy/simple-html-dom": "1.0"
     }
 ```
 

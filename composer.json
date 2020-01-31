@@ -1,9 +1,9 @@
 {
-    "name": "quynp/simple-html-dom",
+    "name": "sirquy/simple-html-dom",
     "type": "library",
     "description": "Composer adaptation of: A HTML DOM parser written in PHP7.0+ let you manipulate HTML in a very easy way! Require PHP 7.0+. Supports invalid HTML. Find tags on an HTML page with selectors just like jQuery. Extract contents from HTML in a single line.",    
     "keywords": ["html", "dom", "parser"],
-    "homepage": "https://github.com/quynp/simple-html-dom",
+    "homepage": "https://github.com/sirquy/simple-html-dom",
     "license": "MIT",
     "authors": [
         {
